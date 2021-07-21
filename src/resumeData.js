@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://C20.ReactPortfolio.github.io",
+    "imagebaseurl":"https://syedmtirmizi.github.io/C20.ReactPortfolio.github.io/",
     "name": "Syed Murtaza Tirmizi",
     "role": "Product Manager",
     "linkedinId":"https://www.linkedin.com/in/syedmtirmizi/",
@@ -19,7 +19,7 @@ let resumeData = {
       ],
     "aboutme":"I am an experienced Product Manager with an undergrad in Marketing and an MBA in Strategic Management. I am learning Web Development & Coding at University of Toronto to further enhance my knowledge of the developing ecommerce world. I believe by combining my education background and work history with my new web development knowledge, I will be successful managing a team of Ecommerce Managers.",
     "address":"Toronto,Ontario,Canada",
-    "website":"https://C20.ReactPortfolio.github.io",
+    "website":"https://syedmtirmizi.github.io/C20.ReactPortfolio.github.io/",
     "education":[
       {
         "UniversityName":"University of Toronto",
