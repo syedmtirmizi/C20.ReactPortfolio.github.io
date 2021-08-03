@@ -83,14 +83,16 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Puppy Love",
+        "description":"An App that helps dogs get dates.",
+        "imgurl":"public\images\portfolio\puppylove.JPG",
+        "url":"https://puppy-love-date.herokuapp.com/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Redux Store",
+        "description":"E-com store",
+        "imgurl":"images/portfolio/project.jpg",
+        "url":"https://ancient-bastion-83098.herokuapp.com/"
       },
       {
         "name":"project3",
